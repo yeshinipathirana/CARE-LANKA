@@ -1,0 +1,20 @@
+// constants/routes.ts
+export const ROUTES = {
+  LOGIN:               "(auth)/login",
+  SIGNUP:              "(auth)/signup",
+  MAIN_TABS:           "(tabs)",
+  HOME:                "(tabs)/index",
+  CALORIES:            "(tabs)/calories",
+  MEAL_PLANNER:        "(tabs)/meal-planner",
+  ADD_MEAL_ITEM:       "(tabs)/add-meal",
+  MEAL_RECOMMENDATION: "(tabs)/meal-recommendation",
+  LAB_REPORTS:         "(tabs)/lab-reports",
+  ADD_LAB_REPORT:      "(tabs)/add-lab-report",
+  ALERTS:              "(tabs)/alerts",
+  PROFILE:             "(tabs)/profile",
+  EDIT_PROFILE:        "(tabs)/edit-profile",
+  STEPS:               "(tabs)/steps",
+  ACTIVE_MINS:         "(tabs)/active-mins",
+  HEART_POINTS:        "(tabs)/heart-points",
+  SLEEP:               "(tabs)/sleep",
+};

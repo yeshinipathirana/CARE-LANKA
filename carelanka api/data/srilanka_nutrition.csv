@@ -1,0 +1,59 @@
+food_name,calories_per_100g,carbs_per_100g,protein_per_100g,fat_per_100g,density_g_per_ml
+White Rice,130,28.2,2.7,0.3,0.90
+Basmathi Rice,129,28.7,2.7,0.3,0.88
+Fried Rice,163,27.0,3.5,4.5,0.92
+Milk Rice,175,30.0,4.0,5.0,1.00
+Red Rice,111,23.0,2.6,0.9,0.88
+Dhal Curry,116,19.8,7.6,1.0,1.00
+Chicken Curry,155,3.8,18.0,7.0,1.02
+Fish Curry,120,3.0,16.0,5.0,1.02
+Bean Curry,100,17.5,6.2,1.5,1.00
+Soya Curry,130,10.0,12.0,4.5,1.00
+Pol Sambol,210,5.5,2.0,20.0,0.85
+Lunu Miris,85,12.0,2.5,3.5,0.90
+Coconut Relish,215,6.0,2.0,21.0,0.85
+Papadam,380,60.0,18.0,10.0,0.30
+Brinjal Curry,65,9.0,2.0,2.5,0.95
+Pumpkin Curry,55,12.0,1.5,0.5,0.96
+Bitter Gourd Curry,70,8.5,2.5,2.8,0.95
+Potato Curry,90,18.0,2.0,1.5,1.00
+Fried Potato,165,22.0,2.5,7.5,0.95
+Mango Curry,95,22.0,0.8,0.5,1.00
+Jackfruit Curry,110,23.0,1.5,0.4,0.98
+Cashew Nut Curry,245,12.0,8.5,18.0,1.00
+Capsicum Curry,60,8.0,2.0,2.0,0.95
+Cauliflower Curry,65,9.5,3.0,1.5,0.95
+Pea Curry,85,14.0,5.5,1.0,1.00
+Meat Curry,195,3.5,18.5,11.0,1.05
+Shrimp Curry,130,4.0,18.0,4.5,1.02
+Fish AmbulThiyal,125,4.5,17.0,4.0,1.00
+Grilled Fish,140,0.0,24.0,4.5,1.00
+Dried Halmasso,240,0.0,40.0,9.0,0.90
+Fried Sprat,265,0.0,30.0,16.0,0.92
+Boiled Eggs,155,1.1,13.0,11.0,1.03
+Omlet,185,1.5,12.0,14.0,1.00
+Cutlet,220,18.0,12.0,10.0,0.95
+Mallum,75,8.0,4.5,3.0,0.90
+Vegetable Salad,25,4.0,1.5,0.2,0.70
+Cucumber,15,3.6,0.7,0.1,0.97
+Beetroot,43,9.6,1.6,0.2,0.97
+Hoppers,110,22.0,3.5,1.5,0.90
+String Hoppers,180,38.0,3.5,0.8,0.85
+Pittu,195,40.0,4.0,1.2,0.88
+Roti,270,45.0,7.5,6.5,0.90
+Kottu,215,32.0,10.0,6.5,0.95
+Kavum,420,55.0,5.0,20.0,0.88
+Kokis,430,57.0,5.5,21.0,0.80
+Polos Ambula,95,16.0,2.0,2.5,0.98
+Chicken,165,0.0,31.0,3.6,1.00
+Biryani,210,30.0,9.5,6.0,0.95
+Fried Chicken,250,10.0,22.0,14.0,1.00
+French Fries,312,41.0,3.4,15.0,0.75
+Pizza,266,33.0,11.0,10.0,0.85
+Hamburger,295,24.0,17.0,14.0,0.90
+Pasta,220,43.0,8.0,1.3,0.90
+Apple,52,13.8,0.3,0.2,0.85
+Banana,89,22.8,1.1,0.3,0.94
+Orange,47,11.8,0.9,0.1,0.96
+Watermelon,30,7.6,0.6,0.2,0.97
+Milo 180ml,80,14.0,3.5,1.5,1.05

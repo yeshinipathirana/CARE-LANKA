@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+python-dotenv
+joblib
+pandas
+scikit-learn
+ultralytics
+firebase-admin
+httpx
+pytesseract
+opencv-python-headless
+numpy
